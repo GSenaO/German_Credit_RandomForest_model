@@ -19,7 +19,7 @@ A maioria dos modelos assume um limite de decisão (Threshold) de 50%. Através 
 ## 🔍 Explicabilidade do Modelo (SHAP)
 Para garantir a transparência exigida por órgãos reguladores e comitês de risco, o modelo foi dissecado utilizando a teoria dos jogos (SHAP Values).
 
-![Summary Plot SHAP](link_para_a_imagem_ebcaf8_no_seu_github.png)
+![Summary Plot SHAP](SHAPValue.png)
 
 **Principais Insights:**
 1. **Prazo (`num_duration_log`):** Empréstimos mais longos aumentam drasticamente o risco de default.
