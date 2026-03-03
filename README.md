@@ -25,6 +25,8 @@ Para garantir a transparência exigida por órgãos reguladores e comitês de ri
 1. **Prazo (`num_duration_log`):** Empréstimos mais longos aumentam drasticamente o risco de default.
 2. **Status da Conta (`cat_checking_3_negativo`):** Clientes com contas já negativadas são os perfis de maior risco.
 3. **Sem Histórico (`cat_checking_1_sem_conta`):** Paradoxalmente, a ausência de uma conta corrente registrada demonstrou reduzir o risco de inadimplência, indicando possível ausência de alavancagem financeira anterior.
+   
+![ResultadoFinal](ResultadoModeloFinal.png)
 
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório: `git clone [URL_DO_SEU_REPO]`
